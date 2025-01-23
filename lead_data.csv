@@ -1,0 +1,11 @@
+racer_id,racer_name,team,average_speed (km/h),lap_time (seconds),position_won
+1,Lewis Hamilton,Mercedes,198.5,78.25,1
+2,Max Verstappen,Red Bull Racing,200.3,77.89,2
+3,Charles Leclerc,Ferrari,197.8,78.56,3
+4,Sergio Perez,Red Bull Racing,198.2,78.34,4
+5,Carlos Sainz,Ferrari,196.7,78.91,5
+6,Lando Norris,McLaren,194.5,79.15,6
+7,George Russell,Mercedes,196,78.74,7
+8,Fernando Alonso,Aston Martin,192.8,80.34,8
+9,Esteban Ocon,Alpine,193.2,79.85,9
+10,Valtteri Bottas,Alfa Romeo,191.5,80.12,10
